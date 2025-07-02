@@ -1,2 +1,2 @@
 # SCT_WD_3
-Tic-Tac-Teo Game
+I have developed a responsive Tic-Tac-Toe web application using HTML, CSS, and JavaScript as part of my web development internship. The game is designed to work seamlessly across both desktop and mobile devices, offering an engaging and interactive experience for two players.I used HTML to create the game board structure and layout, CSS to style the interface with a modern and clean look, and JavaScript to implement the core game logic. This includes features such as turn-based gameplay, checking for winning combinations or draws, displaying the winner, resetting the game, and responsive UI updates. I also implemented an animated interface to enhance user feedback and improve the overall experience.
